@@ -3,9 +3,7 @@
 
 ## Overview of FIG
 
-Two concise lines explaining what this FIG does with bullet points of the major responsibilities
-
-- Responsibility
+The Virtual Worlds and Simulations Foundational Interest Group (FIG) is focused on open source and standards for the creation, management, and operation of persistent experiences. This work includes the communication interfaces, human sensory interfaces, virtual XR devices, layout of the scene and relational identifiers related to the environment, communication initiation, and configuration of worlds.
 
 ## Goals
 
@@ -13,7 +11,13 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## Scope
 
-- General scope of work not specific in nature
+* Identify and produce a specification for server querying of concurrency, layering, content policies, and user policies.
+* Identify and create static or streaming object scene formats using existing and new standards to define or compose world object placement with relational data to identify internal or external objects, or events.
+* Define a queryable schema for hardware and software capabilities of endpoint devices that interact with users.
+* Create a modular and extensible metadata schema exposing coordinate system, grid, scale, physics model, predictability model, refresh requirements, and actions that may be exposable or discoverable.
+* Define the basic schema of portable interoperable protocols layered on a network stack for client/server communication to enable cross-server visibility, as desired.
+* Create rating and policies for enablement of users and content, along with access policies for ownership, control, and visibility of internal, external, or user-generated content.
+* Define an extensible and interoperable schema for user access authentication models to interface and expose metadata to meet enablement requirements.
 
 ## In scope
 
@@ -30,11 +34,10 @@ Two concise lines explaining what this FIG does with bullet points of the major 
 
 ## FIG Links and lists:
 
-- Joining this FIG
-- Slack/Discord
-- Mailing list
-- Issues/PRs
-- Meeting agenda & Notes
+- [Discord](https://discord.gg/openmetaverse)
+- [Mailing list](https://lists.openmv.org/g/fig-virtualworldsim)
+- [Issues/PRs](https://github.com/Open-MV/fig-virtualworldsim/issues)
+- [Meeting agenda & Notes](https://github.com/Open-MV/fig-virtualworldsim/discussions/categories/meetings)
 
 ## Roles and Organization Management
 
