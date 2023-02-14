@@ -2,6 +2,8 @@
 
 This repository holds materials for the Open Metaverse Foundation Interest Group for Virtual Worlds and Simulations (FIG Virtual Worlds and Simulations).
 
+## View [weekly meetings](./meetings/readme.md#Previous-Meetings) with the agenda, notes and audio recordings.
+
 ## Description of FIG Virtual Worlds and Simulations
 
 The Virtual Worlds and Simulations Foundational Interest Group (FIG) is focused on open source and standards for the creation, management, and operation of persistent experiences. This work includes the communication interfaces, human sensory interfaces, virtual XR devices, layout of the scene and relational identifiers related to the environment, communication initiation, and configuration of worlds.
