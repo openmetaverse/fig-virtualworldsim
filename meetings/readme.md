@@ -26,7 +26,7 @@ Below is a list of all prior completed meetings and related resources.
 
 # General Resources
 
-See [OMF Resources](https://github.com/open-mv/foundation) for additional information related to any SIG in O3DE.
+See [OMF Resources](https://github.com/open-mv/foundation) for additional information related to any FIG in OMF.
 
 # Licensing
 
