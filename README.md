@@ -34,7 +34,7 @@ The OMF cannot work without the help and input from as many of its community mem
 
 * FIG Chair: 
 * FIG Co-Chair: 
-* Accepted [RFCs](./rfcs/README.md)
+* Accepted [RFCs](./rfcs/readme.md)
 * [FIG-AI Charter](governance/FIG-Charter.md)
 * [Upcoming meeting agendas](https://github.com/Open-MV/fig-virtualworldsim/discussions/categories/meetings?discussions_q=is%3Aunlocked+category%3AMeetings)
 * [Archived meeting notes](meetings/readme.md)
