@@ -24,7 +24,7 @@ Below is a list of all prior completed meetings and related resources.
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
 | 0001 | 2023-02-08 | 1700 UTC | [Link](https://github.com/openmetaverse/fig-virtualworldsim/discussions/2) | [Recording](https://github.com/openmetaverse/fig-virtualworldsim/raw/main/meetings/media/virtualworldsim-20230208.m4a) | N/A | N/A |
 | 0002 | 2023-02-15 | 1700 UTC | [Link](https://github.com/openmetaverse/fig-virtualworldsim/discussions/3) | [Recording](https://github.com/openmetaverse/fig-virtualworldsim/raw/main/meetings/media/virtualworldsim-20230215.m4a) | N/A | N/A |
-| 0003 | 2023-04-12 | 1700 UTC | N/A | [Recording](https://github.com/openmetaverse/fig-virtualworldsim/raw/main/meetings/media/virtualworldsim-20230412.ogg) | N/A | N/A |
+| 0003 | 2023-04-12 | 1700 UTC | N/A | [Recording](https://github.com/openmetaverse/fig-virtualworldsim/raw/main/meetings/media/virtualworldsim-20230412.ogg) | [Summary](https://github.com/openmetaverse/fig-virtualworldsim/raw/main/meetings/minutes/virtualworldssim-20230412.md) | N/A |
 
 # General Resources
 
