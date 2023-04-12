@@ -12,7 +12,7 @@ Open Metaverse Foundation cannot work without the help and input from as many of
 
 ## Agenda Items
 
-You can find a link to the proposed agenda for the next call in the table below. The agenda for each meeting is saved as [a discussion on Github](https://github.com/Open-MV/fig-virtualworldsim/discussions/categories/meetings).
+You can find a link to the proposed agenda for the next call in the table below. The agenda for each meeting is saved as [a discussion on Github](https://github.com/openmetaverse/fig-virtualworldsim/discussions/categories/meetings).
 
 Please feel free to propose any of your topics, thoughts, or areas you feel are important to discuss.
 
@@ -22,12 +22,13 @@ Below is a list of all prior completed meetings and related resources.
 
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2023-02-08 | 1700 UTC | [Link](https://github.com/Open-MV/fig-virtualworldsim/discussions/2) | [Recording](https://github.com/Open-MV/fig-virtualworldsim/raw/main/meetings/media/virtualworldssim-20230208.m4a) | N/A | N/A |
-| 0002 | 2023-02-15 | 1700 UTC | [Link](https://github.com/Open-MV/fig-virtualworldsim/discussions/3) | [Recording](https://github.com/Open-MV/fig-virtualworldsim/raw/main/meetings/media/virtualworldsim-20230215.m4a) | N/A | N/A |
+| 0001 | 2023-02-08 | 1700 UTC | [Link](https://github.com/openmetaverse/fig-virtualworldsim/discussions/2) | [Recording](https://github.com/openmetaverse/fig-virtualworldsim/raw/main/meetings/media/virtualworldsim-20230208.m4a) | N/A | N/A |
+| 0002 | 2023-02-15 | 1700 UTC | [Link](https://github.com/openmetaverse/fig-virtualworldsim/discussions/3) | [Recording](https://github.com/openmetaverse/fig-virtualworldsim/raw/main/meetings/media/virtualworldsim-20230215.m4a) | N/A | N/A |
+| 0003 | 2023-04-12 | 1700 UTC | N/A | [Recording](https://github.com/openmetaverse/fig-virtualworldsim/raw/main/meetings/media/virtualworldsim-20230412.ogg) | N/A | N/A |
 
 # General Resources
 
-See [OMF Resources](https://github.com/open-mv/foundation) for additional information related to any FIG in OMF.
+See [OMF Resources](https://github.com/openmetaverse/foundation) for additional information related to any FIG in OMF.
 
 # Licensing
 
